@@ -169,7 +169,7 @@ void FRONTEND::redAlert(){
 
 void FRONTEND::yellowAlert(){
   digitalWrite(_redPin, HIGH);
-  digitalWrite(_greenPin, LOW);
+  digitalWrite(_greenPin, HIGH);
 }
 
 
