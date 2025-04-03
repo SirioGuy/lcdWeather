@@ -5,4 +5,4 @@
 
 ### Youtube Videos on Hamtronics Lab
 
-[Youtube Channel](https://www.youtube.com/channel/hatroi](https://www.youtube.com/@hamtronics)
+[Youtube Channel](https://www.youtube.com/@hamtronics)
