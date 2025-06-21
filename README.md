@@ -1,4 +1,4 @@
-# Weather Station LCD | Arduino 
+# lcdWeather | Arduino 
 
 [Tinkercad Proyect](https://www.tinkercad.com/things/jXZgciQA6ad-estacion-meteorologica-con-alertas)
 
